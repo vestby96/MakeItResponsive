@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font: icon;
+}
+
+.parent{
+    position: relative;
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 50px;
+}
+
+nav{
+    position: fixed;
+    top: 0;
+    justify-content: space-around;
+    min-height: 8vh;
+    background-color: rgb(63, 63, 63);
+    width: 100%;
+    opacity: 95%;
+}
+
+.logo{
+    margin-left: 15%;
+    margin-top: 12px;
+    color: rgb(231, 230, 230);
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    font-size: 30px;
+    cursor: default;
+}
+
+.nav-links{
+    margin-left: 50%;
+    margin-top: -37px;
+    justify-content: space-around;
+    width: 30%;
+}
+
+button{
+    font-size: 20px;
+    padding: 9px 25px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+button:hover{
+    background-color:  rgb(207, 195, 195);
+}
+
+.wrapper{
+    position: relative;
+    bottom: 0;
+    height: 150px;
+    background-color:rgb(63, 63, 63);
+    color: rgb(231, 230, 230);
+    opacity: 95%;
+    font-size: 20px;
+}
+
+.box{
+    position: relative;
+    justify-content: space-around;
+    left: 10%;
+    top: 10%;
+    width: 80%;
+}
+
+.box p{
+    padding: 5px;
+}
+
+.email{
+    margin-left: 20%;
+}
+
+.phone{
+    margin-top: -65px;
+    margin-left: 60%;
+}

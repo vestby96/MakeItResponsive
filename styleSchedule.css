@@ -1,0 +1,46 @@
+.parent{
+    height: 550px;
+    font-size: 20px;
+}
+
+.parent h1{
+    position: relative;
+    top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.parent div{
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.child-one{
+    top: 50px;
+}
+
+.child-two{
+    top: 70px;
+}
+
+.child-three{
+    top: 90px;
+}
+
+.child-three ul{
+    padding: 5px;
+}
+
+.child-three li{
+    background-color: rgb(214, 231, 247);
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.child-four{
+    top: 110px;
+}

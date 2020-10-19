@@ -1,0 +1,92 @@
+.parent{
+    height: 650px;
+    font-size: 20px;
+}
+
+.parent h1{
+    position: relative;
+    top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.parent div{
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.child-one{
+    top: 50px;
+}
+
+.child-two{
+    top: 70px;
+}
+
+.child-three{
+    top: 90px;
+    background-color: rgb(214, 231, 247);
+    border: none;
+    border-radius: 50px;
+}
+
+.child-three ul{
+    padding: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.child-three li{
+    padding: 5px;
+    margin-left: 25px;
+}
+
+.child-four{
+    top: 120px;
+}
+
+.parent-two{
+    position: relative;
+    margin-left: 16%;
+    margin-right: 16%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 50px;
+    height: 1000px;
+}
+
+.child-five{
+    position: relative;
+    top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.child-six{
+    position: relative;
+    top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.child-six img{
+    width: 100px;
+    padding: 20px;
+}
+
+.child-six div{
+    display: flex;
+}
+
+.child-six ul{
+    position: relative;
+    margin-top: 4%;
+    list-style: circle;
+    letter-spacing: 1px;
+    font-size: 20px;
+    font-style: oblique;
+}
+

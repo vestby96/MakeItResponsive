@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styleBasic.css">
+    <link rel="stylesheet" href="styleAbout.css">
+    <title>Inova</title>
+</head>
+<body>
+    
+
+    <div class="parent">
+        <h1>About INOVA</h1>
+        <div class="child-one">Welcome to Inova, we are the market leader in sustainability and cost-efficient phones. Our vision is to make communication available all around the world, both with low cost and product waste. We see a growing demand for communication in today's climate. Bigger cities, growing populations and the global pandemic of cov-19 makes it even more important to be able to communicate. 
+        </div>
+        <div class="child-two">We have seen a demand for frugal innovation and focused on accessibility for the people, no matter where in the world you live. Throughout the year we have made a lot of products but seen that not everyone can get their hands on our products. This made us understand that our vision needed to be, connecting everyone.
+        </div>
+        <div class="child-three">
+            <ul>
+                <ul>Our newest and proudest product:
+                    <li>The Pear*: Cheap, easy to use, made of hard plastic to make it durable, long battery time, works with every SIM card.</li>
+                </ul>
+                <ul>Accessories:
+                    <li>Solar panel making it easier to charge</li>
+                    <li>Antenna: making it possible to get access in 78% of the world</li>
+                </ul>
+            </ul>
+        </div>
+        <div class="child-four">We in Inova work hard every day, so that our customers can call home and tell your family you love them. That’s way our slogan is: helping people, love people</div>
+    </div>
+
+    <div class="parent-two">
+        <div class="child-five"><h1>Our Employees</h1></div>
+        <div class="child-six">
+            <div><img src="img/ProfilePic.jpg" alt="Profilepicture"><ul><li>Ola Norman</li><li>Front-End Produser</li><li>Age: 41</li></ul></div>
+            <div><img src="img/ProfilePic.jpg" alt="Profilepicture"><ul><li>Max Power</li><li>Posisjon: CEO</li><li>Age: 43</li></ul></div>
+            <div><img src="img/ProfilePic.jpg" alt="Profilepicture"><ul><li>Ann Mcdonald</li><li>Posisjon: HR</li><li>Age: 28</li></ul></div>
+            <div><img src="img/ProfilePic.jpg" alt="Profilepicture"><ul><li>Will Smith</li><li>Posisjon: Back-End Producer</li><li>Age: 32</li></ul></div>
+            <div><img src="img/ProfilePic.jpg" alt="Profilepicture"><ul><li>Karmen Electra</li><li>Posisjon: Sales</li><li>Age: 69</li></ul></div>
+            <div><img src="img/ProfilePic.jpg" alt="Profilepicture"><ul><li>Mona Lisa</li><li>Posisjon: Design</li><li>Age: 27</li></ul></div>
+        </div>   
+    </div>
+
+    <nav>
+        <div class="logo">
+            <h4>Inova</h4>
+        </div>
+        <ul class="nav-links">
+            <a href="About.index"><button>About</button></a>
+            <a href="Schedule.html"><button>Innovation Camp</button></a>
+            <a href="Contact.html"><button>Contact</button></a>
+        </ul>
+    </nav>
+
+    <div class="wrapper">
+        <ul class="box">
+            <p>Contact us:</p>
+            <ul class="email">
+                <p>futurethinking@gmail.com</p>
+                <p>maxpower@gmail.com</p>
+            </ul>
+            <ul class="phone">
+                <p>Mobile: 34059128</p>
+                <p>Office: 22294082</p>
+            </ul>
+        </ul>
+    </div>
+</body>
+</html>

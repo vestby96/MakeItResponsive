@@ -1,0 +1,30 @@
+.parent{
+    height: 400px;
+    font-size: 20px;
+}
+
+.parent h1{
+    position: relative;
+    top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.parent div{
+    position: relative;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.child-one{
+    top: 50px;
+}
+
+.child-one ul{
+    padding: 10px;
+}
+
+.child-one li{
+    padding: 10px;
+    font-weight: bold;
+}
